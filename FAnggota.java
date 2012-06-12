@@ -39,7 +39,7 @@ public DefaultTableModel tabModel;
     private void initComponents() {
 
         txtNoAnggota = new javax.swing.JTextField();
-        txtNama = new javax.swing.JTextField();
+        
         txtAlamat = new javax.swing.JTextField();
         jLabel1 = new javax.swing.JLabel();
         jLabel2 = new javax.swing.JLabel();
